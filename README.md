@@ -54,11 +54,7 @@ int main() {
 
 ## OUTPUT
 
-
-file:///home/harshinih/Documents/os/ex2.png<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/e5f23381-045e-4fc8-b624-3d85c0c201aa" />
-
-
-
+<img width="1600" height="767" alt="image" src="https://github.com/user-attachments/assets/e5f23381-045e-4fc8-b624-3d85c0c201aa" />
 
 
 
@@ -107,7 +103,7 @@ int main()
 
 ## OUTPUT
 
-file:///home/harshinih/Documents/os/ex2.2.png<img width="1693" height="941" alt="image" src="https://github.com/user-attachments/assets/a8985b58-1a06-460b-948a-85a1b125519d" />
+<img width="1693" height="941" alt="image" src="https://github.com/user-attachments/assets/a8985b58-1a06-460b-948a-85a1b125519d" />
 
 
 # RESULT:
